@@ -47,7 +47,6 @@ Here are some ideas to get you started:
    <a href="https://open.spotify.com/user/22rvzd4tdjrkzo3eqzwohw7ty" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ruangalli" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://gitlab.com/Ruan.Galli"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-  	<a href="https://www.twitch.tv/ruanhsg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-</div>
-  
+  	<a href="https://www.twitch.tv/ruanhsg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
 ![Snake animation](https://github.com/RGalli/RGalli/blob/output/github-contribution-grid-snake.svg)
+</div>
