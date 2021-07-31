@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex;">
-  <a href="https://github.com/RGalli" style="display: flex;">
-  <img height="180em" style="display: inline-flex; flex: 1 1;" src="https://github-readme-stats.vercel.app/api?username=RGalli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" style="display: inline-flex; flex: 1 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=tokyonight&langs_count=7"/>
+<div>
+  <a href="https://github.com/RGalli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RGalli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=tokyonight&langs_count=8"/>
 </div>
 <div style="display: inline_block"><br>  
   <img align="center" alt=".Net Core" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
