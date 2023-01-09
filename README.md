@@ -48,5 +48,6 @@
   <a href="https://gitlab.com/Ruan.Galli"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   	<a href="https://www.twitch.tv/ruanhsg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
   
-  ![Snake animation](https://github.com/RGalli/RGalli/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake Light](https://github.com/RGalli/RGalli/blob/output/github-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](https://github.com/RGalli/RGalli/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 </div>
