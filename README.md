@@ -12,7 +12,7 @@
 -->
 
 <div style="display: flex; align-content: center; justify-content: space-between;">
-  <a href="#">
+  <a href="#" style="display: flex; align-content: center; justify-content: space-between;">
   <img height="179em" src="https://github-readme-stats.vercel.app/api?username=RGalli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-BR"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGalli&theme=tokyonight&langs_count=10&locale=pt-BR"/>-->
   <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=tokyonight&langs_count=10&locale=pt-BR"/>
