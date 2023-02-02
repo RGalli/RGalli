@@ -11,11 +11,11 @@
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div style="display: flex; align-content: center; justify-content: space-between;">
   <a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RGalli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-BR"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=RGalli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-BR"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGalli&theme=tokyonight&langs_count=10&locale=pt-BR"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=tokyonight&langs_count=10&locale=pt-BR"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=tokyonight&langs_count=10&locale=pt-BR"/>
 </div>
 <div style="display: inline_block"><br>  
   <img align="center" alt=".Net Core" height="30" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
