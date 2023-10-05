@@ -29,7 +29,7 @@
 <br><br>
 
 <div style="display: inline_block" align="center">
-  <a href="#">
+  
   <img align="center" alt=".Net Core" height="30" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Csharp" height="30" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Javascript" height="30" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
