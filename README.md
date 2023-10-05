@@ -15,14 +15,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" align="center" style="display: flex;" alt="GitHub Stats Card" src="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&include_all_commits=true&count_private=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&theme=default&include_all_commits=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+    <img height="180em" align="center" style="display: flex;" alt="GitHub Stats Card" src="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&include_all_commits=true"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=default&langs_count=10"/>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=tokyonight&langs_count=10"/>
-    <img height="170em" align="center" style="display: flex;" alt="GitHub Top Languages Card" src="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&langs_count=10"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=default&langs_count=8"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=tokyonight&langs_count=8"/>
+    <img height="180em" align="center" style="display: flex;" alt="GitHub Top Languages Card" src="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&langs_count=8"/>
   </picture>
 </div>
 
