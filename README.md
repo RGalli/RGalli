@@ -15,14 +15,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&theme=default&card_width=450&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&theme=tokyonight&card_width=450&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
-    <img height="200" align="center" style="display: flex;" alt="GitHub Stats Card" src="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&card_width=450&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&theme=default&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
+    <img height="200" align="center" style="display: flex;" alt="GitHub Stats Card" src="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=default&card_width=460&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=default&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=tokyonight&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
-    <img height="200" align="center" style="display: flex;" alt="GitHub Top Languages Card" src="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&card_width=460&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
+    <img height="200" align="center" style="display: flex;" alt="GitHub Top Languages Card" src="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
   </picture>
 </div>
 
