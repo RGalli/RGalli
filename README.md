@@ -15,14 +15,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&theme=default&card_width=450&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&show_icons=true&theme=tokyonight&card_width=450&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
-    <img height="185" align="center" style="display: flex;" alt="GitHub Stats Card" src="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&card_width=450&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&count_private=true&show_icons=true&theme=tokyonight&card_width=450&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&count_private=true&show_icons=true&theme=default&card_width=450&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
+    <img height="185" align="center" style="display: flex;" alt="GitHub Stats Card" src="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&count_private=true&card_width=450&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=default&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&theme=tokyonight&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
-    <img height="185" align="center" style="display: flex;" alt="GitHub Top Languages Card" src="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&layout=compact&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&count_private=true&layout=compact&theme=tokyonight&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&count_private=true&layout=compact&theme=default&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
+    <img height="185" align="center" style="display: flex;" alt="GitHub Top Languages Card" src="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&count_private=true&layout=compact&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
   </picture>
 </div>
 
@@ -86,5 +86,15 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RGalli/RGalli/blob/output/github-snake-dark.svg#gh-dark-mode-only">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/RGalli/RGalli/blob/output/github-snake.svg#gh-light-mode-only">
     <img alt="Shows a light GitHub snake in light mode and a dark GitHub snake in dark mode." src="https://github.com/RGalli/RGalli/blob/output/github-snake-dark.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api/wakatime?username=@RuanGalli&count_private=true&layout=normal&theme=tokyonight&langs_count=10&exclude_repo=github-readme-stats,RGalli">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api/wakatime?username=@RuanGalli&count_private=true&layout=normal&theme=default&langs_count=10&exclude_repo=github-readme-stats,RGalli">
+    <img alt="Wakatime" src="https://github.com/RGalli/RGalli/blob/output/github-snake-dark.svghttps://github-readme-stats-rgalli.vercel.app/api/wakatime?username=@RuanGalli&count_private=true&layout=normal&langs_count=10&exclude_repo=github-readme-stats,RGalli">
   </picture>
 </div>
