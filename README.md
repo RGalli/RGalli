@@ -1,33 +1,20 @@
-## Hello! I'm Ruan! 👋🏽
-- 🔭 I’m currently working on private projects
-- 🌱 I’m currently learning AI and Web 3
-- 👯 I’m looking to collaborate on open projects
-- 💬 Ask me about the .Net universe
+# Hi, I'm Ruan Galli 👋
 
-<!--
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Lead · Software Engineer · Software Architecture · AI & Automation**
 
-<br>
+I build and evolve software products, lead technical decisions, and help engineering teams turn business requirements into maintainable and scalable systems.
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&count_private=true&show_icons=true&theme=tokyonight&card_width=450&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&count_private=true&show_icons=true&theme=default&card_width=450&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
-    <img height="185" align="center" style="display: flex;" alt="GitHub Stats Card" src="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&count_private=true&card_width=450&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&count_private=true&layout=compact&theme=tokyonight&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&count_private=true&layout=compact&theme=default&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
-    <img height="185" align="center" style="display: flex;" alt="GitHub Top Languages Card" src="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&count_private=true&layout=compact&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
-  </picture>
-</div>
+My background is primarily in **.NET/C#, Node.js/TypeScript and React**, working across software architecture, full-stack engineering, technical leadership and product development.
 
-<br><br>
+### Current focus
 
+- 🏗️ Software architecture and system design
+- ⚙️ Building and evolving full-stack products
+- 🤖 AI-assisted software engineering and automation
+- 🚀 Developer productivity and engineering workflows
+- 👥 Technical leadership and engineering practices
+
+### Core stack
 <div style="display: inline_block" align="center">
   <a href="#">
   <img align="center" alt=".Net Core" height="30" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
@@ -49,11 +36,22 @@
   <img align="center" alt="Apache Kafka" height="30" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
   <img align="center" alt="Redis" height="30" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
   <img align="center" alt="Arduino" height="30" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Protoshop" height="30" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Illustrator" height="30" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">  
+</div>
+<br><br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&count_private=true&show_icons=true&theme=tokyonight&card_width=450&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&count_private=true&show_icons=true&theme=default&card_width=450&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
+    <img height="185" align="center" style="display: flex;" alt="GitHub Stats Card" src="https://github-readme-stats-rgalli.vercel.app/api?username=RGalli&count_private=true&card_width=450&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats,RGalli"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&count_private=true&layout=compact&theme=tokyonight&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&count_private=true&layout=compact&theme=default&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
+    <img height="185" align="center" style="display: flex;" alt="GitHub Top Languages Card" src="https://github-readme-stats-rgalli.vercel.app/api/top-langs/?username=RGalli&count_private=true&layout=compact&card_width=450&langs_count=10&exclude_repo=github-readme-stats,RGalli"/>
+  </picture>
 </div>
 
----
+### Connect
 
 <div style="display: inline_block" align="center">
   <a href="https://dev.to/rgalli" target="_blank">
@@ -61,9 +59,6 @@
   </a>
   <a href="https://www.linkedin.com/in/ruangalli" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.facebook.com/RuanHSGalli" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a>
   <a href="https://open.spotify.com/user/22rvzd4tdjrkzo3eqzwohw7ty" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
@@ -86,15 +81,5 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RGalli/RGalli/blob/output/github-snake-dark.svg#gh-dark-mode-only">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/RGalli/RGalli/blob/output/github-snake.svg#gh-light-mode-only">
     <img alt="Shows a light GitHub snake in light mode and a dark GitHub snake in dark mode." src="https://github.com/RGalli/RGalli/blob/output/github-snake-dark.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rgalli.vercel.app/api/wakatime?username=@RuanGalli&count_private=true&layout=normal&theme=tokyonight&langs_count=10&exclude_repo=github-readme-stats,RGalli">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rgalli.vercel.app/api/wakatime?username=@RuanGalli&count_private=true&layout=normal&theme=default&langs_count=10&exclude_repo=github-readme-stats,RGalli">
-    <img alt="Wakatime" src="https://github.com/RGalli/RGalli/blob/output/github-snake-dark.svghttps://github-readme-stats-rgalli.vercel.app/api/wakatime?username=@RuanGalli&count_private=true&layout=normal&langs_count=10&exclude_repo=github-readme-stats,RGalli">
   </picture>
 </div>
